@@ -1,4 +1,4 @@
-package com.yyh.whale.project.udf;
+package pers.yyh.whale.project.udf;
 
 import org.apache.flink.streaming.api.environment.StreamExecutionEnvironment;
 import org.apache.flink.table.api.Table;
